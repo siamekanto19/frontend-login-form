@@ -40,7 +40,7 @@ const LoginForm = () => {
   return (
     <Card className='w-full bg-white border-0 p-8 rounded-2xl'>
       <CardHeader className='p-0'>
-        <CardTitle className='text-center text-xl lg:text-2xl 2xl:text-3xl font-semibold'>Drunkland.de</CardTitle>
+        <CardTitle className='text-center text-xl lg:text-2xl 2xl:text-3xl font-semibold'>Drukland.de</CardTitle>
         <CardDescription className='pt-2 text-lg text-center text-black font-medium'>Sign In to your account</CardDescription>
         <p className='pt-2 text-base font-normal text-center text-black'>
           Don&apos;t you have an account? <span className='font-medium'>Register</span>
